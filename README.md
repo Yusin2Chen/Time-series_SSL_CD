@@ -9,3 +9,5 @@ Finally, a fully connected layer is fine-tuned on the pre-trained multi-temporal
 
 By releasing our code on GitHub, we aim to facilitate further research and development in the field of unsupervised change detection in satellite imagery. Our method not only pushes the boundaries of existing techniques but also provides a robust framework for addressing real-world challenges in remote sensing applications. Join us in advancing the capabilities of satellite image analysis and contribute to the evolution of this exciting field.
 
+![avatar](/images/Fig1.jpg)
+
